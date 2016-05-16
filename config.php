@@ -12,7 +12,7 @@
 
 return [
 //    'default_return_type'=>'json',
-    'default_module'        => 'api',
+    'default_module'        => 'test',
     'url_route_on' => true,
     'log'          => [
 //        'type' => 'trace', // 支持 socket trace file
