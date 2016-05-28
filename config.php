@@ -16,7 +16,7 @@ return [
     'url_route_on' => true,
     'log'          => [
 //        'type' => 'trace', // 支持 socket trace file
-        'type'             => 'socket',
+        'type'             => 'trace',
         // socket服务器
         'host'             => 'slog.thinkphp.cn',
     ],
