@@ -6,6 +6,6 @@ class sign
 
     public function run(&$params){
         // 行为逻辑
-        echo 1;
+//        echo 1;
     }
 }
